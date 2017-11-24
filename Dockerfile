@@ -13,10 +13,3 @@ RUN set -x \
 		ninja \
 		python3 \
 	&& pip3 install meson
-
-# CircleCI requirements
-RUN set -x \
-	&& apk add --no-cache \
-		ca-certificates \
-		git \
-		openssh
