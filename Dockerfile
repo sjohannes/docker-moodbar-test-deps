@@ -8,8 +8,8 @@ RUN set -x \
 	&& apk add --no-cache \
 		fftw-dev \
 		g++ \
-		gst-plugins-base1-dev \
-		gstreamer1-dev \
+		gst-plugins-base-dev \
+		gstreamer-dev \
 		ninja \
 		python3 \
 	&& pip3 install meson
