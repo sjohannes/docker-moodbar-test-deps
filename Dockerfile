@@ -11,5 +11,6 @@ RUN set -x \
 		gst-plugins-base-dev \
 		gstreamer-dev \
 		ninja \
+		pkgconf \
 		python3 \
 	&& pip3 install meson
