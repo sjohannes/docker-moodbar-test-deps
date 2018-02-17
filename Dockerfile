@@ -10,7 +10,9 @@ RUN set -x \
 		g++ \
 		gst-plugins-base-dev \
 		gstreamer-dev \
+		gstreamer-tools \
 		ninja \
 		pkgconf \
+		py3-numpy \
 		python3 \
 	&& pip3 install meson
