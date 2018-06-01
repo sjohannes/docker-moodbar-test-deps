@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Environment]
+"Path"="Z:\\usr\\x86_64-w64-mingw32\\sys-root\\mingw\\bin"
+"GST_PLUGIN_SYSTEM_PATH_1_0"="Z:\\usr\\x86_64-w64-mingw32\\sys-root\\mingw\\lib\\gstreamer-1.0"
